@@ -34,8 +34,8 @@ To run this project locally, follow these steps:
 
 2.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/knowledge-base-search.git](https://github.com/your-username/knowledge-base-search.git)
-    cd knowledge-base-search
+    git clone https://github.com/Dwijesh05/Knowledge_Base_Search_Engine.git
+    cd Knowledge_Base_Search_Engine
     ```
 
 3.  **Open the Application**:
@@ -63,4 +63,5 @@ To run this project locally, follow these steps:
 │   └── js/script.js
 ├── index.html
 └── README.md
+
 ```
